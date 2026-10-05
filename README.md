@@ -52,12 +52,12 @@ GoatVR adds stereoscopic VR rendering, head tracking, Quest controller support a
 ## Download
 
 <p align="left">
-  <a href="https://github.com/5chech/GoatsimVR/releases/latest"><img src="https://img.shields.io/badge/Download%20GoatVR-Latest%20APK-2ea44f?style=for-the-badge&logo=android" alt="Download GoatVR APK"></a>
+  <a href="https://github.com/5chech/GoatVR/releases/latest"><img src="https://img.shields.io/badge/Download%20GoatVR-Latest%20APK-2ea44f?style=for-the-badge&logo=android" alt="Download GoatVR APK"></a>
 </p>
 
 Download the latest version from the GitHub Releases page:
 
-**[Go to Releases →](https://github.com/5chech/GoatsimVR/releases)**
+**[Go to Releases →](https://github.com/5chech/GoatVR/releases)**
 
 ---
 
@@ -97,7 +97,7 @@ You should see your headset listed as a connected device.
 
 Download the latest APK from:
 
-**[Latest Release →](https://github.com/5chech/GoatsimVR/releases/latest)**
+**[Latest Release →](https://github.com/5chech/GoatVR/releases/latest)**
 
 ### 4. Install the APK
 
@@ -199,7 +199,7 @@ If you test GoatVR on Quest 2, feedback is welcome.
 
 If you find a reproducible problem, please open an issue:
 
-<a href="https://github.com/5chech/GoatsimVR/issues"><img src="https://img.shields.io/badge/Report%20a%20Bug-GitHub%20Issues-d73a49?style=for-the-badge&logo=github&logoColor=white" alt="Report a bug"></a>
+<a href="https://github.com/5chech/GoatVR/issues"><img src="https://img.shields.io/badge/Report%20a%20Bug-GitHub%20Issues-d73a49?style=for-the-badge&logo=github&logoColor=white" alt="Report a bug"></a>
 
 Useful information includes:
 
