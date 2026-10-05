@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <b>Play the original Goat Simulator in standalone VR. Based on the mobile phone version.</b>
+  <b>Play the original Goat Simulator in standalone VR. Built on the mobile phone version.</b>
 </p>
 
 </br>
