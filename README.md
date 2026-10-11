@@ -80,18 +80,26 @@ You will need to:
 4. Accept the **USB debugging** prompt inside the headset.
 5. Restart and wait a few minutes if the USB debugging prompt does not show.
 
-### 2. Install ADB
+### 2. Set up ADB
 
-> [!IMPORTANT]
-> You must install Android Platform Tools on your PC to install with adb.
+Download and extract Android Platform Tools on your PC.
+[Download Android Platform Tools >](https://developer.android.com/tools/releases/platform-tools)
 
-Connect your Quest and check that it is detected:
+Open Command Prompt and run this, replacing the path with the extracted platform-tools folder from the download above:
+
+```cmd
+cd /d "C:\your_directory"
+```
+
+Keep the cmd window open where you just ran `cd /d "C:\your_directory"`. Connect your Quest with USB to your computer, then run:
 
 ```cmd
 adb devices
 ```
 
-You should see your headset listed as a connected device.
+Accept the USB debugging prompt on your headset if one shows. Your headset should now appear in the list with `device` beside it. 
+
+If there is nothing after running the command, adb cant see the headset. Check steps 1 and 2 again. 
 
 ### 3. Download GoatVR
 
@@ -101,7 +109,7 @@ Download the latest APK from:
 
 ### 4. Install the APK
 
-Open Command Prompt inside your Platform Tools folder and run:
+In the same Command Prompt window where you ran cd `/d "C:\your_directory"` run this:
 
 ```cmd
 adb install -r GoatVR.apk
@@ -113,11 +121,15 @@ Once installation finishes successfully, GoatVR will be installed on the headset
 
 ### 5. Launch GoatVR
 
-Launch GoatVR from your Quest.
+> You can also launch GoatVR through Lightning Launcher if it's installed. Lighting launcher is the better way to launch sideloaded games/apps (like this one) but its a optional step.
 
-From the Goat Simulator main menu, press **Play** as normal.
+**Using the Quest default app library:**
 
-Don't forget you have access to a whole settings/mod menu! Press the quest menu button on your controller (when in the pause menu) to access.
+1. Put on your headset and open Library / Apps.
+2. Select Unknown Sources. Depending on your Quest software version, this may show as a tab or an option in the library’s filter/dropdown menu.
+3. Find GoatVR or Goat Simulator and select it to launch.
+4. Once installed, you can disconnect your headset from the PC.
+5. Then launch the game.
 
 ---
 
