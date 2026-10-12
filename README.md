@@ -182,7 +182,7 @@ GoatVR includes its own in-game VR settings/mod menu.
 > [!NOTE]
 > **While playing:**
 >
-> 1. Press the **Menu** button once to open the normal Goat Simulator settings menu.
+> 1. Press the **Menu** button once to open the normal Goat Simulator pause menu.
 > 2. Press **Menu again** to open the GoatVR settings/mod menu.
 
 ---
