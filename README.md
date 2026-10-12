@@ -1,3 +1,7 @@
+> [!WARNING]
+> There's a current issue with Quest 3 headsets you may experience - it still works on the 3S. I'm working on fixing as soon as possible. if you're having this issue, please come back later. As a ETA it will definitely be fixed within a week, should be fixed in a few days.
+
+
 <p align="center">
   <img src="docs/images/goatvr-hero-nourl.png" alt="Goat Simulator Meta Quest Mod" width="100%">
 </p>
